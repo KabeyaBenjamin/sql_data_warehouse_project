@@ -9,8 +9,8 @@ The goal is to mirror what happens in real industry environments—using modern 
 
 🏗️ Data Architecture:
 
-!(<img width="1159" height="772" alt="1q" src="https://github.com/user-attachments/assets/499500cd-289a-4d83-a493-db51c9f73a4e" />
-)
+<img width="1159" height="772" alt="1q" src="https://github.com/user-attachments/assets/499500cd-289a-4d83-a493-db51c9f73a4e" />
+
 
 
 The data architecture for this project follows Medallion Architecture Bronze, Silver, and Gold layers:
